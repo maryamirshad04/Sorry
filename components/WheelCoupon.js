@@ -6,7 +6,7 @@ const SEGMENTS = [
   { label: '88%', color: '#ffd6e7' },
   { label: '95%', color: '#ff85c2' },
   { label: '91%', color: '#ffadd2' },
-  { label: '100%', color: '#f759ab' },
+  { label: '80%', color: '#f759ab' },
   { label: '99%', color: '#ff85c2' },
   { label: '97%', color: '#ffd6e7' },
   { label: '84%', color: '#ffb3d1' },
@@ -127,7 +127,7 @@ export default function WheelCoupon() {
         animRef.current = requestAnimationFrame(animate);
       } else {
         setSpinning(false);
-        setResult('100%');
+        setResult('80%');
       }
     };
 
