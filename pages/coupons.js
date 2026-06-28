@@ -23,7 +23,7 @@ const COUPONS = [
     subtitle: 'love coupon #1',
     color: '#ffb3d1',
     borderColor: '#ff85c2',
-    description: 'Upload our photo + play our song',
+    description: 'Our photo + play our song',
     Component: SpotifyCoupon,
   },
   {
