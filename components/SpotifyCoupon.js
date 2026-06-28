@@ -44,7 +44,7 @@ export default function SpotifyCoupon() {
 
   return (
     <div style={{ padding: '24px 28px' }}>
-      <audio ref={audioRef} src="/song.mp3" preload="metadata" />
+      <audio ref={audioRef} src="/song1.mp3" preload="metadata" />
 
       <div style={{
         background: 'linear-gradient(145deg, #fce4ec, #f8bbd0)',
@@ -64,7 +64,7 @@ export default function SpotifyCoupon() {
           boxShadow: '0 4px 16px rgba(255,133,194,0.3)',
         }}>
           <img
-            src="/coupon.jpg"
+            src="/coupon.jpeg"
             alt="us"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />

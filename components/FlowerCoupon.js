@@ -10,7 +10,6 @@ const FLOWERS = [
     name: 'Red Rose',
     color: '#ff4d6d',
     meaning: 'Deep romantic love, passion, and devotion — everything I feel for you. 💕',
-    // x: % from left of bouquet container, stemHeight: px
     x: 50, stemHeight: 110, angle: 0,
   },
   {
