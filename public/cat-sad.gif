@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <rect width="140" height="140" rx="12" fill="#e8d5f0"/>
+  <!-- Cat face -->
+  <ellipse cx="70" cy="75" rx="42" ry="38" fill="#fff0f5" stroke="#b57bee" stroke-width="2"/>
+  <!-- Ears (droopy) -->
+  <polygon points="30,48 18,20 50,40" fill="#d7b5f0" stroke="#b57bee" stroke-width="1.5"/>
+  <polygon points="110,48 122,20 90,40" fill="#d7b5f0" stroke="#b57bee" stroke-width="1.5"/>
+  <polygon points="33,45 24,25 47,39" fill="#e8d5f0"/>
+  <polygon points="107,45 116,25 93,39" fill="#e8d5f0"/>
+  <!-- Eyes (sad ;_;) -->
+  <path d="M 52 72 Q 58 80 64 72" stroke="#7b3f9e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 76 72 Q 82 80 88 72" stroke="#7b3f9e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Tears -->
+  <ellipse cx="55" cy="80" rx="3" ry="5" fill="#b3d9ff" opacity="0.7"/>
+  <ellipse cx="85" cy="80" rx="3" ry="5" fill="#b3d9ff" opacity="0.7"/>
+  <!-- Nose -->
+  <ellipse cx="70" cy="84" rx="5" ry="3.5" fill="#b57bee"/>
+  <!-- Mouth (sad) -->
+  <path d="M 65 92 Q 70 87 75 92" stroke="#7b3f9e" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="30" y1="82" x2="58" y2="85" stroke="#b57bee" stroke-width="1.5" opacity="0.7"/>
+  <line x1="30" y1="88" x2="58" y2="88" stroke="#b57bee" stroke-width="1.5" opacity="0.7"/>
+  <line x1="82" y1="85" x2="110" y2="82" stroke="#b57bee" stroke-width="1.5" opacity="0.7"/>
+  <line x1="82" y1="88" x2="110" y2="88" stroke="#b57bee" stroke-width="1.5" opacity="0.7"/>
+  <!-- Blush -->
+  <ellipse cx="46" cy="92" rx="10" ry="6" fill="#d7b5f0" opacity="0.5"/>
+  <ellipse cx="94" cy="92" rx="10" ry="6" fill="#d7b5f0" opacity="0.5"/>
+  <!-- Broken heart -->
+  <text x="58" y="126" font-size="20" fill="#b57bee">💔</text>
+</svg>

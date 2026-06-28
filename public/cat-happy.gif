@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <rect width="140" height="140" rx="12" fill="#ffd6e7"/>
+  <!-- Cat face -->
+  <ellipse cx="70" cy="72" rx="42" ry="38" fill="#fff0f5" stroke="#ff85c2" stroke-width="2"/>
+  <!-- Ears -->
+  <polygon points="30,45 20,15 50,35" fill="#ffadd2" stroke="#ff85c2" stroke-width="1.5"/>
+  <polygon points="110,45 120,15 90,35" fill="#ffadd2" stroke="#ff85c2" stroke-width="1.5"/>
+  <!-- Inner ears -->
+  <polygon points="33,42 25,22 47,37" fill="#ffb3d1"/>
+  <polygon points="107,42 115,22 93,37" fill="#ffb3d1"/>
+  <!-- Eyes (happy ^w^) -->
+  <path d="M 52 68 Q 58 60 64 68" stroke="#c41d7f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 76 68 Q 82 60 88 68" stroke="#c41d7f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="70" cy="80" rx="5" ry="3.5" fill="#ff85c2"/>
+  <!-- Mouth -->
+  <path d="M 65 84 Q 70 90 75 84" stroke="#c41d7f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="30" y1="78" x2="58" y2="82" stroke="#ff85c2" stroke-width="1.5" opacity="0.7"/>
+  <line x1="30" y1="84" x2="58" y2="84" stroke="#ff85c2" stroke-width="1.5" opacity="0.7"/>
+  <line x1="82" y1="82" x2="110" y2="78" stroke="#ff85c2" stroke-width="1.5" opacity="0.7"/>
+  <line x1="82" y1="84" x2="110" y2="84" stroke="#ff85c2" stroke-width="1.5" opacity="0.7"/>
+  <!-- Blush -->
+  <ellipse cx="46" cy="88" rx="10" ry="6" fill="#ff85c2" opacity="0.4"/>
+  <ellipse cx="94" cy="88" rx="10" ry="6" fill="#ff85c2" opacity="0.4"/>
+  <!-- Heart -->
+  <text x="60" y="122" font-size="22" fill="#f759ab">💗</text>
+  <!-- Stars -->
+  <text x="10" y="30" font-size="14" fill="#f759ab">✨</text>
+  <text x="110" y="25" font-size="14" fill="#f759ab">⭐</text>
+</svg>
